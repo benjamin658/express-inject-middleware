@@ -1,9 +1,8 @@
 # express-inject-middleware
 
-[![NPM version][npm-image]][npm-url]
-[![NPM downloads][downloads-image]][downloads-url]
-[![Build status][travis-image]][travis-url]
-[![Test coverage][coveralls-image]][coveralls-url]
+[![npm version](https://badge.fury.io/js/express-inject-middleware.svg)](https://badge.fury.io/js/express-inject-middleware)
+[![Build Status](https://travis-ci.org/benjamin658/express-inject-middleware.svg?branch=master)](https://travis-ci.org/benjamin658/express-inject-middleware)
+[![Coverage Status](https://coveralls.io/repos/github/benjamin658/express-inject-middleware/badge.svg?branch=master)](https://coveralls.io/github/benjamin658/express-inject-middleware?branch=master)
 
 > Inject stack of middlewares into given routes or middlewares.
 
@@ -14,7 +13,6 @@ With this middleware, it can easily define express routes as a group that use on
 `npm install express-inject-middleware --save`
 
 ## Example Usage
-
 
 ### Basic example
 
